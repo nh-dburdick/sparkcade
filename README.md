@@ -1,10 +1,10 @@
-# WorkAdventure Map Starter Kit
+# Spark Day 11 - Sparkcade
 
 ![map](./map.png)
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+Welcome to the Sparkcade!  This is a [WorkAdventure](https://workadventu.re) map built for Spark Day 11.
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+To understand how to develop maps for WorkAdventure, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
 ## Structure
 * **tilesets** : All tilesets
