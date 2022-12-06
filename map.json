@@ -264,7 +264,6 @@
         {
          "draworder":"topdown",
          "id":2,
-         "locked":true,
          "name":"floorLayer",
          "objects":[
                 {
@@ -438,7 +437,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/ned.im\/pixel-race-game\/game.html"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -517,9 +516,9 @@
                  "name":"quad_racer_1",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/blocktanks.io\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -544,9 +543,9 @@
                  "name":"quad_racer_2",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/blocktanks.io\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -571,9 +570,9 @@
                  "name":"pinball1",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/showcase.codethislab.com\/games\/space_adventure_pinball\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -598,9 +597,9 @@
                  "name":"pinball2",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/plays.org\/game\/pinball-world-cup\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -625,9 +624,9 @@
                  "name":"pinball3",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/b10b.com\/firefighterpinball\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -654,7 +653,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/codepen.io\/gdube\/embed\/JybxxZ?default-tab=result"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -679,9 +678,9 @@
                  "name":"superhero",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/plays.org\/game\/8bit-dungeon-knight\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -733,9 +732,9 @@
                  "name":"wolf",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/mmatt-ugh.itch.io\/mole"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -760,9 +759,9 @@
                  "name":"star",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"http:\/\/www.kevs3d.co.uk\/dev\/arena5\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -814,9 +813,9 @@
                  "name":"streetfighter",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/www.crazygames.com\/embed\/stickman-duelist-supreme-war"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -897,7 +896,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/footchinko2"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -907,7 +906,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE to play a fighting game"
+                         "value":"Press SPACE to play a game"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -924,7 +923,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/dailysolitaire"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -949,7 +948,7 @@
                  "name":"mario",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.crazygames.com\/embed\/super-oliver-world"
                         }, 
@@ -1005,7 +1004,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/snake.io\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1057,9 +1056,9 @@
                  "name":"generic_beatemup",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/quickdraw.withgoogle.com"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1086,7 +1085,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/cannonballs3d"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1168,7 +1167,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/pacman.cc\/html5\/"
+                         "value":"https:\/\/flappybird.io\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1212,6 +1211,141 @@
                  "width":32,
                  "x":608,
                  "y":192
+                }, 
+                {
+                 "class":"area",
+                 "height":32,
+                 "id":60,
+                 "name":"concession",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/pandapizzaparlor"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to play a game"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":32,
+                 "y":128
+                }, 
+                {
+                 "class":"area",
+                 "height":32,
+                 "id":61,
+                 "name":"vending_machine",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/cakesliceninja"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to play a game"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":32,
+                 "x":704,
+                 "y":224
+                }, 
+                {
+                 "class":"area",
+                 "height":64,
+                 "id":62,
+                 "name":"atm1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/diamondrush"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to play a game"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":32,
+                 "x":64,
+                 "y":256
+                }, 
+                {
+                 "class":"area",
+                 "height":64,
+                 "id":63,
+                 "name":"atm2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.crazygames.com\/embed\/money-clicker"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to play a game"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":32,
+                 "x":640,
+                 "y":96
+                }, 
+                {
+                 "class":"area",
+                 "height":32,
+                 "id":64,
+                 "name":"dumpster",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/cdn.sesamestreetincommunities.org\/SSIC053_TrashLaunch\/ump.html"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to play a game"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":64,
+                 "x":832,
+                 "y":576
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1284,7 +1418,7 @@
          "y":0
         }],
  "nextlayerid":54,
- "nextobjectid":60,
+ "nextobjectid":65,
  "orientation":"orthogonal",
  "properties":[
         {
